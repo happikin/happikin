@@ -1,5 +1,5 @@
 ### Hi there 👋
-My Skills: C/C++,Linux
+<b>My Skills</b>: C/C++,Linux
 <!--
 **happikin/happikin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
