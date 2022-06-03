@@ -1,5 +1,5 @@
 ### Hi there 👋
-<b>My Skills</b>: C/C++,Linux
+<b>My Skills</b>: C/C++,Linux,Middleware SOA
 
 <!--
 
