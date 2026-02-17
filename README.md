@@ -1,5 +1,5 @@
 ### Hi there 👋
-<b>My Skills</b>: C/C++,Linux,Middleware SOA
+<b>About Me</b>: I work with C++ 14/17/20 for linux platforms. I have programmed real-time network applications for software defined vehicles using DDS, SOME/IP and POSIXSockets. Currently am pursuing the use of C++ in high performance computing domain, trying to build a parallel framework.
 
 <!--
 
