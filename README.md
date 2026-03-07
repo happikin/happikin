@@ -1,9 +1,10 @@
 ### Hi there 👋
 <b>About Me</b>: I work with C++ 14/17/20 for linux platforms. I have programmed real-time network applications for software defined vehicles using DDS, SOME/IP and POSIXSockets. Currently am pursuing the use of C++ in high performance computing domain, trying to build a parallel framework.
 
+[![Happikin's github stats](https://github-readme-stats.vercel.app/api?username=happikin&count_private=true&show_icons=true&theme=light&hide_rank=false)](https://github.com/happikin/github-readme-stats)
+
 <!--
 
-[![Happikin's github stats](https://github-readme-stats.vercel.app/api?username=happikin&count_private=true&show_icons=true&theme=light&hide_rank=false)](https://github.com/happikin/github-readme-stats)
 
 **happikin/happikin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
