@@ -1,6 +1,10 @@
-### Hi there 👋
-<b>About Me</b>: I work with C++ 14/17/20 for linux platforms. I have programmed real-time network applications for software defined vehicles using DDS, SOME/IP and POSIXSockets. Currently am pursuing the use of C++ in high performance computing domain, trying to build a parallel framework.
+### About Me 👋
+I am caring individual who likes to pay attention to the process of software engineering. My greatest desire is to build a software company with talented people who also cherish life in general.
+I am working on a parallel runtime & a framework which will be designed for scientific applications. If you care for something similar please make a fork and share your thoughts on github issues.
 
+```bash
+skill_set=("C++" "Julia" "Bash" "Performance Tuning" "Optimization" "Benchmarking" "Distributed Computing")
+```
 
 <!--
 
